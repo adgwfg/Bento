@@ -92,9 +92,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -148,12 +148,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'OVERTIME?!?!?!',
+					link: 'https://www.youtube.com/watch?v=P82M6Dgi3s0',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'im thinking miku',
+					link: 'https://www.youtube.com/watch?v=NocXEwsJGOQ',
 				},
 				{
 					name: 'Oldies',
